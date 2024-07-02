@@ -1,0 +1,82 @@
+#first h1 {
+    font-size: 1.5rem;
+}
+#first p {
+    font-size: 0.8rem;
+   
+}
+
+nav span {
+ 
+    font-size: 0.8rem;
+}
+
+nav img {
+    width: 39px;
+}
+
+nav ul {
+    flex-direction: column;
+    font-size: 0.8rem;
+}
+
+.box span {
+    font-size: 0.9rem;
+
+}
+
+#second h1 {
+    font-size: 2rem;
+}
+
+#third h1 {
+    font-size: 1.5rem;
+}
+
+.box5 {
+=    margin-top: 40px;
+}
+
+.boxes {
+    max-width: none;
+}
+
+.first-para {
+    font-size: 0.9rem;
+    padding: 5px;
+}
+
+.Second-para {
+    font-size: 0.8rem;
+    padding: 3px;
+}
+
+
+footer {
+  
+    margin-top: 50px;
+}
+
+
+address {
+    font-size: 0.9rem;
+}
+
+footer p {
+    font-size: 0.8rem;
+
+}
+
+.float img {
+    height: 30px;
+
+}
+ .location{
+  
+} 
+
+map iframe{
+
+    height: 200px;
+    width: 400px;
+}

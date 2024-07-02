@@ -1,0 +1,40 @@
+#first h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+#first p {
+    font-size: 1rem;
+    text-align: center;
+}
+
+.boxes {
+    max-width: none;
+}
+
+
+#second h1 {
+    font-size: 2.2rem;
+}
+
+#third h1 {
+    font-size: 1.8rem;
+}
+
+.first-para {
+    font-size: 1.1rem;
+    padding: 6px;
+}
+
+.Second-para {
+    font-size: 1rem;
+    padding: 6px;
+}
+
+address {
+    font-size: 1.1rem;
+}
+
+
+footer p {
+    font-size: 0.9rem;
+}
