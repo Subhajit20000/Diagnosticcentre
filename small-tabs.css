@@ -20,6 +20,16 @@ nav ul {
     font-size: 0.8rem;
 }
 
+li{
+    display: flex;
+    flex-direction: column;
+}
+
+li span {
+    display: none;
+}
+
+
 .box span {
     font-size: 0.9rem;
 

@@ -10,10 +10,6 @@ nav {
 
 }
 
-nav img {
-   display: none;
-}
-
 nav ul {
 font-size: 10px;
 font-weight: normal;
@@ -24,6 +20,15 @@ nav span {
     font-size: 10px;
     font-weight: normal;
     margin-top: 10px;
+}
+
+li{
+    display: flex;
+    flex-direction: column;
+}
+
+li span {
+    display: none;
 }
 
 .box {
